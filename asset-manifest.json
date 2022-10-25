@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-reactdom-demo/static/css/main.1d473fa1.css",
+    "main.js": "/react-reactdom-demo/static/js/main.54a5be38.js",
+    "index.html": "/react-reactdom-demo/index.html",
+    "main.1d473fa1.css.map": "/react-reactdom-demo/static/css/main.1d473fa1.css.map",
+    "main.54a5be38.js.map": "/react-reactdom-demo/static/js/main.54a5be38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d473fa1.css",
+    "static/js/main.54a5be38.js"
+  ]
+}
